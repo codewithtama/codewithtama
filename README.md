@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in web 
 
 ## 🚀 About Me
 - 🎓 Graduated from Universitas Semarang.
-- 💼 Currently working as a supervisor at Kemang Club Villas.
+- 💼 Currently working as a supervisor at *********.
 - 🌱 I’m currently learning advanced management systems.
 - 👯 I’m looking to collaborate on exciting web projects and management system development.
 - 🐱 Cat lover 🐾
