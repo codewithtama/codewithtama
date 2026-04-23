@@ -1,161 +1,70 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DIMAS%20ALFA%20P.&fontSize=80&fontColor=fff&animation=twinkling&theme=dark_rainbow" width="100%" />
+</p>
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dimas%20Alfa%20Pratama&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer%20%7C%20Flutter%20Enthusiast&descAlignY=58&descSize=18&descColor=a0f0ff"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=50&lines=>>+SENIOR+FLUTTER+DEVELOPER;>>+CYBERSECURITY+ELITE+(OSINT);>>+SYSTEM+AUTOMATION+EXPERT" alt="Typing SVG" />
+</h1>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Tama+%F0%9F%91%8B;Flutter+%26+Mobile+App+Developer;Web+Dev+%7C+Laravel+%7C+JavaScript;Supply+Chain+%26+Agri-Tech+Builder;Open+Source+%26+Content+Creator;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlwYms2OXBqd3h2anBvdnhtYjVxbXQ0eGF4Z285cWR6MzR5ZmtjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RfbD9n/LMc7vGSWvF2L4v8s7z/giphy.gif" width="100%" height="20">
+</p>
 
-<br/>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</p>
 
-<!-- BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=codewithtama&style=for-the-badge&color=00f7ff&labelColor=0d1117)
-![GitHub followers](https://img.shields.io/github/followers/codewithtama?style=for-the-badge&color=00f7ff&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/codewithtama?style=for-the-badge&color=00f7ff&labelColor=0d1117)
+<h2 align="center"> 🏆 MY DIGITAL TROPHY CASE 🏆 </h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=radical&no-frame=true&column=7&margin-w=10&row=1" alt="github profile trophy" />
+  </a>
+</p>
 
-</div>
+<br>
 
----
+<h2 align="center"> 🛠️ ADVANCED TECH STACK (HOVER FOR ANIMATION) 🛠️ </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio,linux,kali,bash,regex,git,github,md,py,mysql,docker&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FLUTTER-EXPERT-E01E5A?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DART-ELITE-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-ACTIVE%20DEFENSE-FF9900?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYS%20ADMIN-PRO-43536D?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-<!-- ABOUT ME -->
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<br>
 
-## 🧑‍💻 About Me
+<h2 align="center"> 🔥 HIGH-PERFORMANCE ANALYTICS 🔥 </h2>
+<p align="center">
+  <table border="0" align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=FE428E&icon_color=FE428E&text_color=fff" alt="Dimas's Stats" height="195px"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical&hide_border=true&title_color=FE428E&icon_color=FE428E&text_color=fff" alt="Top Languages" height="195px"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
-```yaml
-name     : Dimas Alfa Pratama (Tama)
-location : Indonesia 🇮🇩
-focus    : Mobile Apps & Web Systems
-status   : Building cool stuff 🔥
-```
+<br>
 
-- 🎓 **Computer Science** — Universitas Semarang  
-- 📱 Building **Mitra GKMZ** — supply chain app for palm oil cooperatives, East Kalimantan  
-- 🌐 Writing tech & social content → [dimasalfapratama.blogspot.com](https://dimasalfapratama.blogspot.com)  
-- 🔭 Currently exploring: **Advanced Flutter Architecture + AI Integration**  
-- ⚡ Fun fact: I turn complex field problems into clean mobile solutions  
-- 🐱 Professional cat whisperer  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzOXM2YmdnaXpuaWx5c3oxd3Z1bnBtbnA5b3AxeGxjNjhrazd5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RfbD9n/26BOC6C761mE7I29W/giphy.gif" width="50%" alt="Cyber GIF">
+</p>
 
-<br clear="right"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlwYms2OXBqd3h2anBvdnhtYjVxbXQ0eGF4Z285cWR6MzR5ZmtjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RfbD9n/LMc7vGSWvF2L4v8s7z/giphy.gif" width="100%" height="15">
+</p>
 
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,laravel,php,html,css,react,nodejs&theme=dark&perline=10" />
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,firebase,mongodb,docker,figma,vscode,androidstudio&theme=dark&perline=10" />
-</a>
-
-</div>
-
-<br/>
-
-**📱 Mobile Development**
-```
-Flutter / Dart       ████████████████████  95%
-Android (Native)     ███████████████░░░░░  78%
-Firebase             ████████████████░░░░  82%
-Provider / Riverpod  ████████████████████  90%
-```
-
-**🌐 Web Development**
-```
-HTML / CSS           ████████████████████  95%
-JavaScript           ███████████████████░  88%
-Laravel / PHP        ████████████████░░░░  82%
-Python               ███████████████░░░░░  78%
-MySQL                ████████████████████  90%
-```
-
-**🔧 Tools & DevOps**
-```
-Git / GitHub         ████████████████████  95%
-Linux                ███████████████████░  88%
-Docker               ████████████░░░░░░░░  65%
-SEO / Blogger CMS    ████████████████████  92%
-```
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/codewithtama/mitra-gkmz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithtama&repo=mitra-gkmz&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/codewithtama/net-analyzer-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithtama&repo=net-analyzer-pro&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
-| 🏆 Project | 📝 Description | 💻 Stack |
-|:---|:---|:---|
-| [**Mitra GKMZ**](https://github.com/codewithtama/mitra-gkmz) | Supply chain app for palm oil cooperatives — role-based access for 5 user types, SPB doc generation, QR scan verify, 923+ farmer records | `Flutter` `Dart` `Provider` `SharedPrefs` |
-| [**Net Analyzer Pro**](https://github.com/codewithtama/net-analyzer-pro) | Network OSINT & analysis app — DNS leak, speed test, signal scanner, username lookup, AMOLED theme | `Flutter` `Dart` `Async` |
-| [**Blog Platform**](https://dimasalfapratama.blogspot.com) | HUD/cyber-themed blog with full SEO, Schema.org, OG tags, custom JS widgets (clock, BGM, minesweeper) | `HTML` `CSS` `JS` `Blogger` |
-| [**Laravel Web Profile**](https://github.com/codewithtama) | Personal web profile with dynamic portfolio & admin panel | `Laravel` `PHP` `MySQL` `Bootstrap` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithtama&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithtama&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="175"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=codewithtama&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithtama&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" />
-
-<br/>
-
-<!-- SNAKE ANIMATION (requires GitHub Actions — see setup below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithtama/codewithtama/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithtama/codewithtama/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithtama/codewithtama/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithtama&bg_color=1a1b27&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&radius=12" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog-dimasalfapratama-00F7FF?style=for-the-badge&logo=blogger&logoColor=white)](https://dimasalfapratama.blogspot.com)
-[![Twitter](https://img.shields.io/badge/@dimasalfapratama-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dimasalfapratama)
-[![Email](https://img.shields.io/badge/Gmail-tama@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tama@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tama)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
-
-</div>
+<h3 align="center"> ⚡ Lets Connect & Innovate ⚡ </h3>
+<p align="center">
+<a href="mailto:dimas.email.anda@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/profil-linkedin-anda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dimasalfapratama.blogspot.com/"><img src="https://img.shields.io/badge/My%20Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+</p>
