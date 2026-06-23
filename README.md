@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dimas+Alfa+Pratama+%F0%9F%91%8B;Flutter+Developer;Python+Automation+Engineer;Civic+Tech+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dimas+Alfa+Pratama;Flutter+Developer;Python+Automation+Engineer;Civic+Tech+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-codewithtama-181717?style=for-the-badge&logo=github)](https://github.com/codewithtama)
 [![Blog](https://img.shields.io/badge/Blog-dimasalfapratama-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dimasalfapratama.blogspot.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@dimasalfapratama-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dimasalfapratama)
-[![Location](https://img.shields.io/badge/📍_Tangerang_Selatan-Indonesia-00C853?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Tangerang_Selatan-Indonesia-00C853?style=for-the-badge)](#)
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 👤 About
+## About
 
 S-1 Sistem Informasi student at Universitas Pamulang with hands-on experience in HR tech, mobile development, and civic transparency tooling. I work as Staff Operation at Hygiene Kleen — coordinating 15+ project sites while building internal tools that actually get used.
 
@@ -34,70 +34,68 @@ Most of what I build solves a real problem I ran into at work or saw in the publ
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 📡 Net Analyzer Pro
-Android network analysis & OSINT toolkit. 10+ tools: IP lookup, port scanner, ping, MAC vendor, username OSINT (55+ platforms), Google Dork generator, DNS leak audit.
+### Sistem Manajemen BUMDes
+Web-based management platform for Badan Usaha Milik Desa. Covers financial management, business unit tracking, asset records, and audit-ready transaction history with role-based access for admin, pengurus, and warga.
 
+[![Repo](https://img.shields.io/badge/GitHub-Sistem--Manajemen--BUMDes-181717?style=flat-square&logo=github)](https://github.com/codewithtama/Sistem-Manajemen-BUMDes)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%">
+
+### E-Musyawarah Desa
+Digital platform for managing village deliberation (musyawarah desa) processes. Enables structured discussion, agenda management, and decision documentation for village governance.
+
+[![Repo](https://img.shields.io/badge/GitHub-E--Musyawarah--Desa-181717?style=flat-square&logo=github)](https://github.com/codewithtama/E-Musyawarah-Desa)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Saham
+Python-based stock market analysis tool. Processes and analyzes Indonesian stock market data to support investment decision-making.
+
+[![Repo](https://img.shields.io/badge/GitHub-saham-181717?style=flat-square&logo=github)](https://github.com/codewithtama/saham)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%">
+
+### Servis Reminder
+Android app built with Kotlin for vehicle service reminders. Notifies users when their vehicle is due for scheduled maintenance based on mileage or time intervals.
+
+[![Repo](https://img.shields.io/badge/GitHub-Servis_Reminder-181717?style=flat-square&logo=github)](https://github.com/codewithtama/Servis_Reminder)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### CekBPOM
+Flutter mobile app for checking BPOM (Indonesian Food and Drug Authority) product registration status. Look up whether food, drug, or cosmetic products are legally registered and safe.
+
+[![Repo](https://img.shields.io/badge/GitHub-CekBPOM-181717?style=flat-square&logo=github)](https://github.com/codewithtama/CekBPOM)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 💰 Payroll Pro ID
-Indonesian payroll calculator with PPh 21 TER (PMK 168/2023), BPJS components, batch processing, Excel/PDF export, and SHA-256 checksums.
+### AbsensiApp
+Flutter-based attendance application. Allows employees or students to record daily attendance digitally with a clean and straightforward interface.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📍 Sistem Presensi 2FA
-Mobile attendance with 2FA, GPS geofencing, selfie + liveness detection, QR scan, anti-spoofing. Laravel 11 backend + Next.js admin dashboard.
-
+[![Repo](https://img.shields.io/badge/GitHub-AbsensiApp-181717?style=flat-square&logo=github)](https://github.com/codewithtama/AbsensiApp)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🔍 Pengadaan Publik Tracker
-Civic tech anomaly detector for Indonesian govt procurement. Analyzes 11,461 RUP packages across 38 SKPD — detects Penunjukan Langsung clustering & budget concentration.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌴 Mitra GKMZ Kaltim
-Palm oil cooperative supply chain app. SPB document generation with QR codes, role-based access for 923+ farmer records across 3 cooperatives.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 📄 Surat Peringatan Generator
-Bulk SP warning letter automation via Python Word mail merge. Batch CSV input, deployed internally at Hygiene Kleen.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Word](https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </td>
 </tr>
@@ -105,7 +103,7 @@ Bulk SP warning letter automation via Python Word mail merge. Batch CSV input, d
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -113,6 +111,7 @@ Bulk SP warning letter automation via Python Word mail merge. Batch CSV input, d
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Backend**
 
@@ -123,9 +122,9 @@ Bulk SP warning letter automation via Python Word mail merge. Batch CSV input, d
 
 **Frontend**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Database**
 
@@ -144,7 +143,7 @@ Bulk SP warning letter automation via Python Word mail merge. Batch CSV input, d
 
 ---
 
-## 📊 Activity
+## Activity
 
 <div align="center">
 
@@ -154,12 +153,11 @@ Bulk SP warning letter automation via Python Word mail merge. Batch CSV input, d
 
 ---
 
-## 🎯 Currently
+## Currently
 
-- 🏗️ Building **Emperor Dev** — software house with imperial branding
-- 📱 Finishing **Sistem Presensi 2FA** for internal deployment
-- 🎓 S-1 Sistem Informasi @ Universitas Pamulang (est. grad. 2029)
-- ✍️ Writing at [dimasalfapratama.blogspot.com](https://dimasalfapratama.blogspot.com)
+- Building **Emperor Dev** — software house with imperial branding
+- S-1 Sistem Informasi @ Universitas Pamulang (est. grad. 2029)
+- Writing at [dimasalfapratama.blogspot.com](https://dimasalfapratama.blogspot.com)
 
 ---
 
