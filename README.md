@@ -168,18 +168,18 @@ Flutter-based attendance application. Allows employees or students to record dai
 
 ## Currently
 
-- 🏛️ Building [**Emperor Dev**](https://github.com/EmperorDev-id) — software house with imperial branding
-- 🎓 S-1 Sistem Informasi @ Universitas Pamulang (est. grad. 2029)
-- ✍️ Writing at [dimasalfapratama.blogspot.com](https://dimasalfapratama.blogspot.com)
+- Building [**Emperor Dev**](https://github.com/EmperorDev-id) — software house with imperial branding
+- S-1 Sistem Informasi @ Universitas Pamulang (est. grad. 2029)
+- Writing at [dimasalfapratama.blogspot.com](https://dimasalfapratama.blogspot.com)
 
 ---
 
 ## What I'm Learning
 
-- ⚙️ **DevOps** — Docker Compose, CI/CD pipelines with GitHub Actions
-- 🤖 **AI Integration** — LLM APIs, RAG patterns for civic tech applications
-- ☁️ **Cloud** — AWS basics, serverless with Lambda
-- 🔐 **Security** — OWASP Top 10 applied to Laravel & FastAPI projects
+- **DevOps** — Docker Compose, CI/CD pipelines with GitHub Actions
+- **AI Integration** — LLM APIs, RAG patterns for civic tech applications
+- **Cloud** — AWS basics, serverless with Lambda
+- **Security** — OWASP Top 10 applied to Laravel & FastAPI projects
 
 ---
 
@@ -199,10 +199,10 @@ Flutter-based attendance application. Allows employees or students to record dai
 
 > *"I build tools that solve real problems I actually ran into — not portfolio pieces made to impress, but things that get used."*
 
-- 🔧 Most of my work comes from pain points at my day job in operations
-- 🏛️ Passionate about civic tech and government transparency tooling
-- 📍 Based in Tangerang Selatan, open to remote collaboration
-- ☕ Best ideas come after the third coffee
+- Most of my work comes from pain points at my day job in operations
+- Passionate about civic tech and government transparency tooling
+- Based in Tangerang Selatan, open to remote collaboration
+- Best ideas come after the third coffee
 
 ---
 
