@@ -9,6 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-codewithtama-181717?style=for-the-badge&logo=github)](https://github.com/codewithtama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dimasalfapratama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasalfapratama)
 [![Blog](https://img.shields.io/badge/Blog-dimasalfapratama-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dimasalfapratama.blogspot.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@dimasalfapratama-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dimasalfapratama)
 [![Location](https://img.shields.io/badge/Tangerang_Selatan-Indonesia-00C853?style=for-the-badge)](#)
@@ -21,6 +22,10 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=codewithtama&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=codewithtama&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
@@ -149,15 +154,55 @@ Flutter-based attendance application. Allows employees or students to record dai
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithtama&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithtama/codewithtama/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithtama/codewithtama/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/codewithtama/codewithtama/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 ---
 
 ## Currently
 
-- Building **Emperor Dev** — software house with imperial branding
-- S-1 Sistem Informasi @ Universitas Pamulang (est. grad. 2029)
-- Writing at [dimasalfapratama.blogspot.com](https://dimasalfapratama.blogspot.com)
+- 🏛️ Building [**Emperor Dev**](https://github.com/EmperorDev-id) — software house with imperial branding
+- 🎓 S-1 Sistem Informasi @ Universitas Pamulang (est. grad. 2029)
+- ✍️ Writing at [dimasalfapratama.blogspot.com](https://dimasalfapratama.blogspot.com)
+
+---
+
+## What I'm Learning
+
+- ⚙️ **DevOps** — Docker Compose, CI/CD pipelines with GitHub Actions
+- 🤖 **AI Integration** — LLM APIs, RAG patterns for civic tech applications
+- ☁️ **Cloud** — AWS basics, serverless with Lambda
+- 🔐 **Security** — OWASP Top 10 applied to Laravel & FastAPI projects
+
+---
+
+## Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-dimasalfapratama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasalfapratama@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasalfapratama)
+[![Blog](https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dimasalfapratama.blogspot.com)
+
+</div>
+
+---
+
+## A Bit More
+
+> *"I build tools that solve real problems I actually ran into — not portfolio pieces made to impress, but things that get used."*
+
+- 🔧 Most of my work comes from pain points at my day job in operations
+- 🏛️ Passionate about civic tech and government transparency tooling
+- 📍 Based in Tangerang Selatan, open to remote collaboration
+- ☕ Best ideas come after the third coffee
 
 ---
 
