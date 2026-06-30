@@ -11,8 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-codewithtama-181717?style=for-the-badge&logo=github)](https://github.com/codewithtama)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dimasalfapratama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasalfapratama)
 [![Blog](https://img.shields.io/badge/Blog-dimasalfapratama-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dimasalfapratama.blogspot.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@dimasalfapratama-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dimasalfapratama)
-[![Location](https://img.shields.io/badge/Tangerang_Selatan-Indonesia-00C853?style=for-the-badge)](#)
 
 <br/>
 
@@ -187,7 +185,7 @@ Flutter-based attendance application. Allows employees or students to record dai
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dimasalfapratama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasalfapratama@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dimasalfapratama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasalfapratama@consultant.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasalfapratama)
 [![Blog](https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dimasalfapratama.blogspot.com)
 
