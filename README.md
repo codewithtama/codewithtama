@@ -185,7 +185,7 @@ Flutter-based attendance application. Allows employees or students to record dai
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dimasalfapratama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasalfapratama@consultant.com)
+[![Email](https://img.shields.io/badge/Email-dimasalfapratama%40consultant.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasalfapratama@consultant.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasalfapratama)
 [![Blog](https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dimasalfapratama.blogspot.com)
 
